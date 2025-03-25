@@ -33,6 +33,14 @@ const projectsData: Project[] = [
     detailImage: toolerDetailImage,
     versions: [
       {
+        version: "2.5",
+        releaseDate: "2024-02-20",
+        description: "Den nyeste versjonen med forbedret Launch time og en ekte installer",
+        exeDownloadUrl: "https://github.com/CyberHansen/Tooler-apps/releases/download/Tooler-2.5/Tooler_Setup.exe",
+        zipDownloadUrl: "https://github.com/CyberHansen/Tooler-apps/archive/refs/tags/Tooler-2.5.zip",
+        githubUrl: "https://github.com/CyberHansen/Tooler-apps"
+      },
+      {
         version: "2.0",
         releaseDate: "2024-02-20",
         description: "Den nyeste versjonen med forbedret brukergrensesnitt og flere funksjoner",
