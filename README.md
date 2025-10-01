@@ -1,20 +1,200 @@
-# CyberHansen
-# 💫 About Me:
-I am Mathias, a 17-year-old IT student from Norway with a strong passion for cybersecurity and programming. Ever since I was a child, I have been fascinated by technology and how things work. This curiosity led me to explore the world of IT, and I have never looked back.<br><br>During the COVID-19 pandemic, I started teaching myself coding. It began with simple HTML and CSS projects, but over time, I expanded my knowledge to JavaScript, Python, and SQL. Now, in high school, I have specialized in information technology and developed a particular interest in cybersecurity.<br><br>I enjoy solving complex problems and learning new technologies. My approach to development is always with security in mind—I believe that good code should not only be efficient but also secure.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mathias+Hansen;17+%7C+Norway+%F0%9F%87%B3%F0%9F%87%B4+%7C+IT+Student;Cybersecurity+Enthusiast+%F0%9F%94%90;Ethical+Hacker+in+Training+%F0%9F%92%BB" alt="Typing SVG" />
+</h1>
 
-Visit my website portfolio! https://cyberhansen.github.io/CyberHansen/ (pls 🙏)
-
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberHansen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote ( everybody needs one )
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CyberHansen&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://cyberhansen.github.io/CyberHansen/">
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:Mathiashansen2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mathias-hansen-988a1a373/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CyberHansen&icon=1&color=1)](https://visitcount.itsvg.in)
+
+## 👨‍💻 About Me
+
+```python
+class MathiasHansen:
+    def __init__(self):
+        self.name = "Mathias Hansen"
+        self.age = 17
+        self.location = "Kongsberg, Norway 🇳🇴"
+        self.education = "IT Student - Cybersecurity Specialization"
+        self.interests = ["Cybersecurity", "Programming", "CTF Challenges", "Gaming"]
+        self.motto = "Good code should be efficient AND secure"
+    
+    def get_skills(self):
+        return {
+            "languages": ["Python", "C#", "JavaScript", "SQL"],
+            "web": ["HTML", "CSS", "React"],
+            "focus": "Cybersecurity & Ethical Hacking",
+            "learning": ["Penetration Testing", "Cryptography", "Secure Coding"]
+        }
+    
+    def current_goals(self):
+        return [
+            "Master advanced cybersecurity techniques",
+            "Compete in CTF competitions",
+            "Build secure and robust applications",
+            "Become a certified ethical hacker"
+        ]
+```
+
+### 🎯 My Journey
+
+During the COVID-19 pandemic, I discovered my passion for coding—starting with simple HTML and CSS projects and progressively expanding to JavaScript, Python, and SQL. What began as curiosity evolved into a deep commitment to cybersecurity and ethical hacking.
+
+**My approach:** Security-first development. I believe that elegant code must also be secure code.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
+
+### Cybersecurity Tools & Interests
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Penetration_Testing-FF0000?style=for-the-badge&logo=hackaday&logoColor=white" alt="Pen Testing"/>
+  <img src="https://img.shields.io/badge/CTF-00D9FF?style=for-the-badge&logo=flag&logoColor=white" alt="CTF"/>
+  <img src="https://img.shields.io/badge/Cryptography-4B0082?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Cryptography"/>
+  <img src="https://img.shields.io/badge/Vulnerability_Analysis-DC143C?style=for-the-badge&logo=security&logoColor=white" alt="Vuln Analysis"/>
+</p>
+
+### Tools & Environment
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CyberHansen&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberHansen&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberHansen&theme=radical&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CyberHansen&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```
+┌─[mathias@kali]─[~]
+└──╼ $ cat current_projects.txt
+
+→ 🔐 Learning advanced penetration testing techniques
+→ 💻 Building secure web applications with security-first approach
+→ 🏆 Competing in CTF challenges to sharpen skills
+→ 📚 Preparing for ethical hacking certifications
+→ 🎮 Developing cybersecurity tools and automation scripts
+```
+
+---
+
+## 🎮 Interests Beyond Code
+
+- **🎯 Gaming:** Strategy games and FPS - sharpening problem-solving skills and reflexes
+- **🔍 CTF Competitions:** Regular participant in Capture The Flag challenges
+- **📖 Continuous Learning:** Always exploring new security trends and vulnerabilities
+- **🛡️ Security Research:** Studying the latest attack vectors and defense mechanisms
+
+---
+
+## 🚀 Future Goals
+
+```csharp
+public class FutureGoals
+{
+    public string Education { get; set; }
+    public List<string> Career { get; set; }
+    public List<string> Certifications { get; set; }
+    public string Vision { get; set; }
+}
+
+var myGoals = new FutureGoals
+{
+    Education = "Bachelor's/Master's in Information Security",
+    Career = new List<string>
+    {
+        "Ethical Hacker",
+        "Security Consultant",
+        "Penetration Tester"
+    },
+    Certifications = new List<string>
+    {
+        "CEH (Certified Ethical Hacker)",
+        "OSCP (Offensive Security Certified Professional)",
+        "Security+"
+    },
+    Vision = "Protect systems and data from malicious actors using my knowledge for good"
+};
+```
+
+---
+
+## 💡 Philosophy
+
+> *"The best defense is understanding the offense. Security isn't just about building walls—it's about thinking like an attacker to protect like a defender."*
+
+I approach every project with security in mind. Whether it's a simple script or a complex application, I believe that **secure code is good code**, and **good code is secure code**.
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+I'm always interested in connecting with fellow developers, security enthusiasts, and anyone passionate about technology!
+
+<p>
+  <a href="https://cyberhansen.github.io/CyberHansen/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00D9FF?style=for-the-badge" alt="Portfolio"/>
+  </a>
+</p>
+
+<p>
+  <a href="mailto:Mathiashansen2007@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mathias-hansen-988a1a373/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge" alt="LinkedIn"/>
+  </a>
+</p>
+
+**Open to collaborations, CTF teams, and exciting cybersecurity projects!**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CyberHansen&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+  
+  <p>⭐️ From <a href="https://github.com/CyberHansen">CyberHansen</a> | Made with ❤️ and lots of ☕</p>
+</div>
