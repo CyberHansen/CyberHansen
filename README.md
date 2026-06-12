@@ -22,7 +22,7 @@
 class MathiasHansen:
     def __init__(self):
         self.name = "Mathias Hansen"
-        self.age = 17
+        self.age = 18
         self.location = "Kongsberg, Norway 🇳🇴"
         self.education = "IT Student - Cybersecurity Specialization"
         self.interests = ["Cybersecurity", "Programming", "CTF Challenges", "Gaming"]
