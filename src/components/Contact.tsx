@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import DiscordIcon from './icons/DiscordIcon';
 
 interface FormStatus {
   submitted: boolean;
@@ -176,15 +177,15 @@ const Contact = () => {
           
           <div>
             <h3 className="text-lg font-semibold text-blue-400">Lokasjon</h3>
-            <p className="text-gray-300">Kongsberg, Norge</p>
+            <p className="text-gray-300">Vestfossen, Norge</p>
           </div>
-          
+
           <div className="pt-4">
             <h3 className="text-lg font-semibold text-blue-400">Sosiale Medier</h3>
             <div className="flex space-x-4 mt-2">
-              <a 
-                href="https://github.com/CyberHansen" 
-                target="_blank" 
+              <a
+                href="https://github.com/CyberHansen"
+                target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-blue-400 transition-colors"
                 title="GitHub"
@@ -193,36 +194,27 @@ const Contact = () => {
                   <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
                 </svg>
               </a>
-              <a 
-                href="https://discord.com/users/755446589669244971" 
-                target="_blank" 
+              <a
+                href="https://www.linkedin.com/in/mathias-hansen-988a1a373"
+                target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-blue-400 transition-colors"
-                title="Discord"
+                title="LinkedIn"
               >
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                  <path d="M9 9v1.5a.5.5 0 0 0 .5.5H12"></path>
-                  <path d="M16 9v1.5a.5.5 0 0 1-.5.5H12"></path>
-                  <path d="M12 16v-4"></path>
-                  <path d="M20 5.5A14.5 14.5 0 0 0 12 3c-2.9 0-5.8.7-8 2.5"></path>
-                  <path d="M20 5.5A14.5 14.5 0 0 1 12 8a14.5 14.5 0 0 1-8-2.5"></path>
-                  <path d="M12 22c-4.2 0-7.5-1.7-9-5"></path>
-                  <path d="M12 22c4.2 0 7.5-1.7 9-5"></path>
-                  <path d="M19 17c-.3-1.4-1-2.7-2-3.5-.5-.4-1.2-.6-1.9-.4-.8.2-1.4.8-1.6 1.6-.3.9 0 1.7.8 2.2.9.6 1.2 1.8.8 2.8-.4.9-1.3 1.3-2.2 1.3H12"></path>
-                  <path d="M12 22h-1.1c-1 0-1.9-.4-2.2-1.3-.4-1 0-2.2.8-2.8.8-.5 1.1-1.3.8-2.2-.2-.8-.8-1.4-1.6-1.6-.7-.2-1.4 0-1.9.4-1 .8-1.7 2.1-2 3.5"></path>
+                  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
+                  <rect x="2" y="9" width="4" height="12"></rect>
+                  <circle cx="4" cy="4" r="2"></circle>
                 </svg>
               </a>
-              <a 
-                href="https://www.chess.com/member/blizteer" 
-                target="_blank" 
+              <a
+                href="https://discord.com/users/755446589669244971"
+                target="_blank"
                 rel="noopener noreferrer"
-                className="text-gray-400 hover:text-blue-400 transition-colors"
-                title="Chess.com"
+                className="hover:opacity-80 transition-opacity"
+                title="Discord"
               >
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                  <path d="M2 2v20h20V2H2z"></path>
-                  <path d="M6 16l2.2-3.6L6 8h3l1.2-2h3.6l1.2 2h3l-2.2 4.4L18 16h-3l-1.2 2h-3.6l-1.2-2H6z"></path>
-                </svg>
+                <DiscordIcon className="w-6 h-6" />
               </a>
             </div>
           </div>
