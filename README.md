@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mathias+Hansen;18+%7C+Norway+%F0%9F%87%B3%F0%9F%87%B4+%7C+IT+Student;Cybersecurity+Enthusiast+%F0%9F%94%90;Ethical+Hacker+in+Training+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mathias+Hansen;18+%7C+Norway+%F0%9F%87%B3%F0%9F%87%B4+%7C+Cybersecurity+Student;NTNU+Gj%C3%B8vik+%F0%9F%8E%93;Network+%26+Security+Project+Lead+%F0%9F%94%90" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -18,36 +18,40 @@
 
 ## 👨‍💻 About Me
 
-```python
-class MathiasHansen:
-    def __init__(self):
-        self.name = "Mathias Hansen"
-        self.age = 18
-        self.location = "Kongsberg, Norway 🇳🇴"
-        self.education = "IT Student - Cybersecurity Specialization"
-        self.interests = ["Cybersecurity", "Programming", "CTF Challenges", "Gaming"]
-        self.motto = "Good code should be efficient AND secure"
-    
-    def get_skills(self):
-        return {
-            "languages": ["Python", "C#", "JavaScript", "SQL"],
-            "web": ["HTML", "CSS", "React"],
-            "focus": "Cybersecurity & Ethical Hacking",
-            "learning": ["Penetration Testing", "Cryptography", "Secure Coding"]
-        }
-    
-    def current_goals(self):
-        return [
-            "Master advanced cybersecurity techniques",
-            "Compete in CTF competitions",
-            "Build secure and robust applications",
-            "Become a certified ethical hacker"
-        ]
+```c
+#include <stdio.h>
+#include <string.h>
+
+typedef struct {
+    char name[50];
+    int age;
+    char location[50];
+    char education[80];
+    char interests[5][30];
+    char motto[80];
+} Person;
+
+int main(void) {
+    Person mathias = {
+        .name = "Mathias Hansen",
+        .age = 18,
+        .location = "Vestfossen, Norway",
+        .education = "1st year, Digital Infrastructure & Cybersecurity - NTNU Gjovik",
+        .interests = {"Cybersecurity", "Networking", "Programming", "CTF Challenges", "Gaming"},
+        .motto = "Good code should be efficient AND secure"
+    };
+
+    printf("Hi, I'm %s\n", mathias.name);
+    printf("Studying: %s\n", mathias.education);
+    return 0;
+}
 ```
 
 ### 🎯 My Journey
 
-During the COVID-19 pandemic, I discovered my passion for coding—starting with simple HTML and CSS projects and progressively expanding to JavaScript, Python, and SQL. What began as curiosity evolved into a deep commitment to cybersecurity and ethical hacking.
+During the COVID-19 pandemic, I discovered my passion for coding — starting with simple HTML and CSS projects and progressively expanding into Python, C#, and now C. What began as curiosity evolved into a deep commitment to cybersecurity and network security.
+
+This year I led a real network security project for Eiker Energi AS, designing, securing and rolling out infrastructure across roughly 30 locations, including a self-built real-time monitoring tool for detecting connectivity and security anomalies.
 
 **My approach:** Security-first development. I believe that elegant code must also be secure code.
 
@@ -76,18 +80,18 @@ During the COVID-19 pandemic, I discovered my passion for coding—starting with
 ┌─[mathias@kali]─[~]
 └──╼ $ cat current_projects.txt
 
-→ 🔐 Learning advanced penetration testing techniques
-→ 💻 Building secure web applications with security-first approach
+→ 🎓 1st year, Digital Infrastructure & Cybersecurity at NTNU Gjøvik
+→ 🔐 Building and maintaining a MikroTik WireGuard VPN network
+→ 💻 Learning C, alongside Python and C#
 → 🏆 Competing in CTF challenges to sharpen skills
 → 📚 Preparing for ethical hacking certifications
-→ 🎮 Developing cybersecurity tools and automation scripts
 ```
 
 ---
 
 ## 🎮 Interests Beyond Code
 
-- **🎯 Gaming:** Strategy games and FPS - sharpening problem-solving skills and reflexes
+- **🎯 Gaming:** Strategy games and FPS — sharpening problem-solving skills and reflexes
 - **🔍 CTF Competitions:** Regular participant in Capture The Flag challenges
 - **📖 Continuous Learning:** Always exploring new security trends and vulnerabilities
 - **🛡️ Security Research:** Studying the latest attack vectors and defense mechanisms
@@ -96,32 +100,25 @@ During the COVID-19 pandemic, I discovered my passion for coding—starting with
 
 ## 🚀 Future Goals
 
-```csharp
-public class FutureGoals
-{
-    public string Education { get; set; }
-    public List<string> Career { get; set; }
-    public List<string> Certifications { get; set; }
-    public string Vision { get; set; }
-}
+```c
+#include <stdio.h>
 
-var myGoals = new FutureGoals
-{
-    Education = "Bachelor's/Master's in Information Security",
-    Career = new List<string>
-    {
-        "Ethical Hacker",
-        "Security Consultant",
-        "Penetration Tester"
-    },
-    Certifications = new List<string>
-    {
-        "CEH (Certified Ethical Hacker)",
-        "OSCP (Offensive Security Certified Professional)",
-        "Security+"
-    },
-    Vision = "Protect systems and data from malicious actors using my knowledge for good"
-};
+typedef struct {
+    const char *career[3];
+    const char *certifications[3];
+    const char *vision;
+} FutureGoals;
+
+int main(void) {
+    FutureGoals goals = {
+        .career = {"Security Analyst", "Ethical Hacker", "Penetration Tester"},
+        .certifications = {"Security+", "CEH (Certified Ethical Hacker)", "OSCP"},
+        .vision = "Protect systems and data from malicious actors using my knowledge for good"
+    };
+
+    printf("Vision: %s\n", goals.vision);
+    return 0;
+}
 ```
 
 ---
